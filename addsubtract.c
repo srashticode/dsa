@@ -10,5 +10,7 @@ int main () {
     printf("enter the number");
     scanf("%d", &d);
     c = c-d ;
+    printf("my output is %d" , c);
+      
     return 0 ;
-}
+} 
