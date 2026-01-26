@@ -5,5 +5,5 @@ int main() {
     // Write C code here
     printf("Try p chcangerogramiz.pro");
 
-    return 0;
+    return 1;
 }
